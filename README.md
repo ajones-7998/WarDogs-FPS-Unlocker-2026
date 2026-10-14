@@ -7,87 +7,89 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-WarDogs--FPS--Unlocker-blue?style=for-the-badge" alt="Project" />
-  <img src="https://img.shields.io/badge/Year-2026-purple?style=for-the-badge" alt="Year" />
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Status" />
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/⬇_Download-Latest_Release-2ea44f?style=for-the-badge" alt="Download Latest Release" />
+  </a>
+  <a href="../../releases">
+    <img src="https://img.shields.io/badge/All-Releases-blue?style=for-the-badge" alt="All Releases" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Year-2026-purple?style=flat-square" alt="Year" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/Project-Community-lightgrey?style=flat-square" alt="Project" />
 </p>
 
 ---
 
 ## 📌 Overview
 
-**WarDogs FPS Unlocker 2026** is a lightweight utility designed to simplify the management of supported frame rate and display configuration options for WarDogs.
+**WarDogs FPS Unlocker 2026** is a lightweight utility focused on supported FPS-related settings and display configuration options for WarDogs.
 
-The project focuses on simplicity, clear documentation, and a straightforward user experience.
+Designed with simplicity and ease of use in mind, the project aims to provide a straightforward configuration experience.
 
 ## ✨ Features
 
-- ⚙️ **Configuration Management** — convenient access to supported FPS-related settings.
-- 🖥️ **Display Options** — explore available frame rate and display configuration options.
-- 🚀 **Lightweight Design** — a simple workflow without unnecessary complexity.
-- 📖 **Clear Documentation** — setup instructions and essential project information in one place.
-- 🔧 **Compatibility Focus** — development with supported game versions and system configurations in mind.
+- ⚙️ Simple configuration workflow
+- 🖥️ FPS-related and display settings management
+- 🚀 Lightweight and easy to navigate
+- 📖 Clear setup instructions
+- 🔧 Compatibility-focused updates
 
-## 📥 Installation
+## 📥 Download
 
-1. Open the [Releases](../../releases) section.
-2. Download the latest available release.
-3. Review the included instructions before running the utility.
-4. Follow the configuration steps for your system.
-5. Launch the game and check the available settings.
+### [⬇️ Download the Latest Release](../../releases/latest)
 
-> Always download project files from the official repository and review executable files before running them.
+1. Open the latest release page using the link above.
+2. Find the **Assets** section.
+3. Download the appropriate file for your system.
+4. Follow the installation instructions included with the release.
+
+For previous versions, visit [All Releases](../../releases).
+
+> Download files only from the official repository and review the included instructions before running them.
 
 ## 🛠️ Requirements
 
-- A supported version of WarDogs
-- A compatible Windows environment, if required by the release
-- Appropriate permissions to modify the relevant configuration files
+- Windows, if supported by the current release
+- A compatible version of WarDogs
+- Any additional dependencies listed in the release notes
 
-Specific requirements may vary by release.
-
-## 📚 Documentation
-
-For additional information, see:
-
-- [Releases](../../releases)
-- [Issues](../../issues)
-- [Source Code](../../)
-
-Check the release notes for compatibility details, changes, and known limitations.
+Check the latest release for specific compatibility details.
 
 ## ❓ FAQ
 
-**Does this guarantee higher FPS?**
+**Where can I download the utility?**
 
-No. Results depend on your hardware, drivers, game version, and existing settings.
+Use the [Latest Release](../../releases/latest) link above.
 
-**Is every game version supported?**
+**Will it improve my FPS?**
 
-Not necessarily. Check the documentation and release notes for compatibility information.
+Performance depends on your hardware, drivers, game version, and configuration. Results are not guaranteed.
 
-**What should I do if something doesn't work?**
+**Having an issue?**
 
-Open an issue and include your operating system, game version, steps to reproduce the problem, and any relevant error messages. Avoid sharing personal information or sensitive files.
+Visit [Issues](../../issues) to report bugs or review known problems.
 
 ## ⚠️ Disclaimer
 
-This project is provided for educational and informational purposes. It is an independent community project and is not affiliated with or endorsed by the developers or publishers of WarDogs.
+This is an independent community project and is not affiliated with or endorsed by the developers or publishers of WarDogs.
 
-Use the utility responsibly and review the game's applicable rules and policies before changing its configuration.
+Use responsibly and follow the applicable game rules and policies.
 
 ## 🤝 Contributions
 
-Suggestions, bug reports, and improvements are welcome.
-
-Please open an issue before submitting major changes so that proposed improvements can be discussed.
+Suggestions, bug reports, and improvements are welcome through the repository's Issues section.
 
 ## 📄 License
 
-See the [LICENSE](LICENSE) file for the applicable terms of use.
+See the [LICENSE](LICENSE) file for license information.
 
 ---
 
 <p align="center">
-  <sub>Made for the community · 2026</sub>
+  <sub>WarDogs FPS Unlocker · 2026</sub>
+  <br />
+  <a href="../../releases/latest">Get the latest version</a>
 </p>
